@@ -1,4 +1,4 @@
-package com.pereyrarg11.cryptocurrencyapp.ui.theme
+package com.pereyrarg11.cryptocurrencyapp.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build
